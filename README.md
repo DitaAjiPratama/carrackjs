@@ -1,6 +1,6 @@
 # CarrackJS
 
-JS library for a HTTP Requests
+Vanilla JS library for a HTTP Requests
 
 ## usage
 
